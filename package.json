@@ -1,0 +1,23 @@
+{
+  "name": "aulagit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "batata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jottakkkjk/aulagit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jottakkkjk/aulagit/issues"
+  },
+  "homepage": "https://github.com/jottakkkjk/aulagit#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
